@@ -14,7 +14,7 @@
 ### Título del proyecto
 > ¿Qué titulo das a tu proyecto? Busca un nombre interesante para la aplicación
 
-### Objetivos                       |
+### Objetivos
 > ¿Qué quieres conseguir con tu proyecto? ¿Qué necesidades cubre? ¿Qué problemas resuelve?
 
 ### Vinculación a la empresa 
@@ -40,4 +40,4 @@ Zaragoza, a __ de febrero de 2023
 
 
 
-Fdo.: <pon tu nombfre>
+Fdo.: <`pon tu nombre`>
