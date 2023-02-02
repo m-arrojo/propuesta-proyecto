@@ -33,10 +33,9 @@
 
 
 
-----
 
 
-Zaragoza, a __ de febrero de 2023
+Zaragoza, a <`fecha`> de febrero de 2023
 
 
 
