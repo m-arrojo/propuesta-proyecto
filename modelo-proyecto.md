@@ -4,7 +4,7 @@
 | **Alumno/a**  |       Lucas Arroyo / Miguel Arrojo   |
 | ------------- | ------------- |
 | **Curso**  |  2º DAW |
-| **Tutor**  |  Luis MIguel Morillas |
+| **Tutor**  |  Luis Miguel Morillas |
 
 
 # Propuesta de Proyecto de Fin de Ciclo
@@ -37,11 +37,9 @@ El desarrollo de la aplicación consistirá en el diseño y desarrollo de una ap
 - Logging: visibilidad de los logs de Tomtit, incluyendo la depuración.
 
 ### Recursos necesarios para la ejecución
-> ¿Qué recursos necesitas para llevar a cabo tu proyecto? ¿Qué materiales, tecnologías, herramientas, etc. crees que vas a necesitar?
-
 El proyecto se desarrollará en C# utilizando el framework .NET 6, y se utilizará el framework de desarrollo web Blazor para la creación de la interfaz de usuario. El software que utilizaremos para el desarrollo será MS Visual Studio, y para la gestión de la base de datos utilizaremos DataGrip. El código se almacenará en un repositorio de Git, y para la gestión de los despliegues se utilizarán Bitbucket pipelines y un servidor Teamcity interno de la empresa para pruebas. Por último, se utilizará un servidor de Docker para el despliegue de la aplicación final.
 
-### Otras consideraciones (Opcional)
+### Otras consideraciones
 
 El proyecto se desarrollará en un entorno de trabajo ágil, utilizando la metodología Scrum. Se realizarán reuniones diarias para la planificación de las tareas, y se realizarán sprints de dos semanas de duración. Se utilizará la herramienta Jira para la gestión de las tareas, y se realizarán reuniones de retrospectiva al final de cada sprint para la mejora continua del equipo.
 
